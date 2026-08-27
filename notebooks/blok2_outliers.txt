@@ -1,0 +1,46 @@
+
+=== completion_elementary ===
+Number of outliers: 1
+PAPUA: 80.09
+
+=== completion_junior_high ===
+Number of outliers: 1
+PAPUA: 67.12
+
+=== completion_senior_high ===
+Number of outliers: 5
+DKI JAKARTA: 88.10
+DI YOGYAKARTA: 89.69
+NUSA TENGGARA TIMUR: 43.46
+GORONTALO: 46.19
+PAPUA: 39.50
+
+=== eys_male ===
+Number of outliers: 3
+DI YOGYAKARTA: 15.73
+PAPUA TENGAH: 9.71
+PAPUA PEGUNUNGAN: 9.96
+
+=== eys_female ===
+Number of outliers: 3
+DI YOGYAKARTA: 15.86
+PAPUA TENGAH: 9.44
+PAPUA PEGUNUNGAN: 10.10
+
+=== literacy_male ===
+Number of outliers: 3
+NUSA TENGGARA BARAT: 94.18
+PAPUA TENGAH: 86.48
+PAPUA PEGUNUNGAN: 71.88
+
+=== literacy_female ===
+Number of outliers: 3
+NUSA TENGGARA BARAT: 88.06
+PAPUA TENGAH: 85.07
+PAPUA PEGUNUNGAN: 64.38
+
+=== literacy_total ===
+Number of outliers: 3
+NUSA TENGGARA BARAT: 91.07
+PAPUA TENGAH: 85.82
+PAPUA PEGUNUNGAN: 68.32
